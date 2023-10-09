@@ -1,0 +1,12 @@
+{
+    
+    "terminal.integrated.profiles.windows": {        
+            "args": [
+                "Import-Module oh-my-posh;Set-Theme qwerty"
+            ],
+            
+       
+    },
+    "files.defaultLanguage": "powershell",
+    "task.problemMatchers.neverPrompt": false
+}
