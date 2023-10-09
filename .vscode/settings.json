@@ -2,7 +2,7 @@
     
     "terminal.integrated.profiles.windows": {        
             "args": [
-                "Import-Module oh-my-posh;Set-Theme qwerty"
+                "Import-Module oh-my-posh;Set-Theme cloud-native-azure"
             ],
             
        
